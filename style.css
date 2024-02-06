@@ -36,6 +36,8 @@ body {
 }
 .section3 {
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .section3 button {
   width: 40px;
